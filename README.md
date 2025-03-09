@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning video game development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me antonin.claudel0402@gmail.com
+- 📫 How to reach me
 
 <!---
 Antoxication/Antoxication is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
